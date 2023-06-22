@@ -24,7 +24,7 @@ body{
     position: absolute;
     top: 65vh;
     height: 35vh;
-    width: 800vw;
+    width: 170vw;
     background-image: url('track.png');
     background-repeat: no-repeat;
     animation: carmove  linear 2s infinite;
